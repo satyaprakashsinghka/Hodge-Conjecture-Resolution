@@ -1,6 +1,7 @@
 # Hodge-Conjecture-Resolution
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23300879.svg)](https://doi.org/10.5281/zenodo.23300879)
+
 Title: A Regularized Kähler Flow Framework for Geometric Stabilization and the Complete Resolution of the Rational Hodge Conjecture
 
 Abstract:
