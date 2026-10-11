@@ -1,6 +1,8 @@
 # Hodge-Conjecture-Resolution
 Title: A Regularized Kähler Flow Framework for Geometric Stabilization and the Complete Resolution of the Rational Hodge Conjecture
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23300879.svg)](https://doi.org/10.5281/zenodo.23300879)
+
 Abstract:
 This research paper provides a complete and final solution to the Rational Hodge Conjecture across arbitrary dimensions. Inspired by Grigori Perelman’s Ricci flow and geometric entropy methods, this paper creates a new mathematical engine called the Universal Kähler Flow Action Functional, Z(omega, g), built over a compact Kähler Manifold. 
 
